@@ -3,6 +3,5 @@ pandas
 numpy
 plotly
 scikit-learn
-textblob
 openpyxl
 xlrd
